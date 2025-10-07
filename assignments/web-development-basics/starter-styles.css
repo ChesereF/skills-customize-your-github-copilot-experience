@@ -1,0 +1,23 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* TODO: Add your custom styles here */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* TODO: Style your header */
+
+/* TODO: Style your navigation */
+
+/* TODO: Style your main content */
+
+/* TODO: Style your footer */
+
+/* TODO: Add media queries for responsive design */
