@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "web-development-basics",
+      "title": "Web Development Basics",
+      "description": "Creating a personal webpage using HTML and CSS",
+      "path": "assignments/web-development-basics",
+      "dueDate": "2025-10-14",
+      "attachments": [
+        {
+          "name": "HTML Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        },
+        {
+          "name": "CSS Starter Code",
+          "file": "starter-styles.css",
+          "type": "css"
+        }
+      ]
     }
   ]
 }
